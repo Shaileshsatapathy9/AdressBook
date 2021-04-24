@@ -142,8 +142,6 @@ namespace AdressBookSystem
                 }
             }
         }
-
-
         public bool CheckExist(string fname)  //Check exist method
         {
             int flag = 0;
