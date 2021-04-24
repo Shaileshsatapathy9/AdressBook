@@ -1,0 +1,13 @@
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.exe
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.deps.json
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.runtimeconfig.json
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.runtimeconfig.dev.json
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.dll
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\bin\Debug\netcoreapp3.1\AdressBookSystem.pdb
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.csprojAssemblyReference.cache
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.AssemblyInfoInputs.cache
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.AssemblyInfo.cs
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.dll
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.pdb
+C:\Users\Shailesh Satapathy\source\repos\AdressBookSystem\AdressBookSystem\obj\Debug\netcoreapp3.1\AdressBookSystem.genruntimeconfig.cache
