@@ -11,7 +11,7 @@ namespace AdressBookSystem
         List<Person> list = new List<Person>(); //create a list of Person objects
 
         String fname = null; //empty string
-        String lname, address, city, state, phone, zip, email; //Declaring (Creating) Variables
+        String lname, address, city, state, phone, zip, email; //Creating Variables
 
         public void AddRecord() //Addidng Record method
         {
